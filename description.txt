@@ -1,5 +1,13 @@
 Test pour TP Git
 Ajout d'une première ligne 
+<<<<<<< HEAD
 Ajout d'une second ligne 
 
 Test (modification d'une ligne différente que dans celui de la branche Test2)  
+=======
+Ajout d'une second ligne
+Ajout d'une énième ligne
+
+Ajout de nouvelles lignes pour tester la nouvelle branche 
+ 
+>>>>>>> Test2
